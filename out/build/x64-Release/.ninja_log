@@ -1,6 +1,0 @@
-# ninja log v5
-3	3791	7243571464167360	Server/CMakeFiles/Server.dir/Server.cpp.obj	c66657622121b43
-10	158	7243726758507065	build.ninja	6b3085d86f1ecbd6
-3792	4062	7243571466776618	Server/Server.exe	145a0f5874a3c20d
-3	3577	7243574313193103	Agent/CMakeFiles/Agent.dir/Agent.cpp.obj	2e1debf293868e86
-3578	3841	7243574315748121	Agent/Agent.exe	db7201d60bb7456f
